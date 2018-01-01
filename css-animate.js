@@ -58,32 +58,3 @@ function shake(element, cb, distance = 5, time = 500) {
     }
   }
 }
-
-// 使元素上下来回抖动
-function shakeVertical(element, cb, distance = 5, time = 500) {
-  if (typeof element == 'string') {
-    element = document.querySelector(element);
-  }
-
-  const originalStyle = element.style.cssText; // 元素的原样式
-  element.style.position = 'relative'; // 使元素相对定位
-  const start = new Date(); // 动画开始时间
-  animate();
-  
-  function animate() {
-    const cost = new Date() - start;
-    const fraction = cost / time;
-
-    if (fraction < 1) { // 动画未完成
-      const x = distance * Math.sin(fraction * 4 * Math.PI);
-      element.style.top = x + 'px';
-
-      setTimeout(animate, Math.min(25, time - cost));
-    } else {
-      element.style.cssText = originalStyle;
-      if (cb) {
-        cb.call(this, element);
-      }
-    }
-  }
-}
