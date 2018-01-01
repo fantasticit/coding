@@ -3,3 +3,5 @@
 
 - 2017年12月<br>
   <a href="https://github.com/mvpzx/fe-note/issues/1">数组深浅拷贝问题引发的思考</a>
+- 2018年1月<br>
+  <a href="https://github.com/mvpzx/fe-note/issues/2">vue中配置svg-sprite-loader来使用svg图标</a>
