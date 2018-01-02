@@ -31,6 +31,7 @@ function fadeOut(element, cb, time = 500) {
 }
 
 // 使元素左右回来抖动
+// 上下抖动则该style.top就可以了
 function shake(element, cb, distance = 5, time = 500) {
   if (typeof element == 'string') {
     element = document.querySelector(element);
