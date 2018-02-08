@@ -3,9 +3,7 @@
 
 > 2018年2月
 
-<ul>
-  <li><a href="https://github.com/mvpzx/fe-note/issues/5">前端加载之首屏时间</a></li>
-</ul>
+  - <a href="https://github.com/mvpzx/fe-note/issues/5">前端加载之首屏时间</a>
 
 > 2018年1月
 
