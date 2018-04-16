@@ -1,6 +1,5 @@
 # fe-note
-记录个人在Js学习道路上遇到的问题https://github.com/mvpzx/fe-note/issues/8
-
+记录个人在Js学习道路上遇到的问题
 > 2018年4月
   
   - <a href="https://github.com/mvpzx/fe-note/issues/8">Redux源码学习（一）：createStore</a>
