@@ -2,7 +2,7 @@
 记录个人在Js学习道路上遇到的问题
 > 2018年4月
   
-  - <a href="https://github.com/mvpzx/fe-note/issues/9">Redux源码学习：createStore</a>
+  - <a href="https://github.com/mvpzx/fe-note/issues/9">在 React 中使用 CSS Modules</a>
   - <a href="https://github.com/mvpzx/fe-note/issues/8">Redux源码学习：createStore</a>
 
 > 2018年2月
