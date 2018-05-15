@@ -1,4 +1,6 @@
-# fe-note
+<p align="center"><img src="./logo.svg" /></p>
+<h2></h2>
+
 记录个人在Js学习道路上遇到的问题
 > 2018年4月
   
