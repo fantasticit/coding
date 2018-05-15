@@ -1,7 +1,7 @@
 <p align="center"><img src="./logo.svg" width="300" /></p>
 <h2></h2>
 
-记录个人在Js学习道路上遇到的问题
+hyiron 的学习笔记，也可以看做是写博客的地方
 > 2018年4月
   
   - <a href="https://github.com/mvpzx/fe-note/issues/9">在 React 中使用 CSS Modules</a>
