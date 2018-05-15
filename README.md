@@ -1,7 +1,7 @@
 <p align="center"><img src="./logo.svg" width="300" /></p>
 <h2></h2>
 
-hyiron 的学习笔记，也可以看做是写博客的地方
+hyiron 的学习笔记
 > 2018年4月
   
   - <a href="https://github.com/mvpzx/fe-note/issues/9">在 React 中使用 CSS Modules</a>
