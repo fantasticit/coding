@@ -1,6 +1,6 @@
 ![js](http://misc.aotu.io/o2/img/books/books-cover.jpg)
 
-在学习Node.js之前先回顾一下JavaScript,看一下这门语言所提供的数据类型。
+本文将简单介绍JavaScript这门语言所提供的数据类型。
 
 # 1 数据类型
 ##  1.1 类型基础
