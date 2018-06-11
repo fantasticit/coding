@@ -1,17 +1,19 @@
-hyiron 的学习笔记
-> 2018年4月
-  
-  - <a href="https://github.com/mvpzx/fe-note/issues/8">Redux源码学习：createStore</a>
+# 前端学习笔记
 
-> 2018年2月
-  
-  - <a href="https://github.com/mvpzx/fe-note/issues/6">使用Vue、React和Koa开发个人博客</a>
+> 文章位置：issues形式发布
 
-> 2018年1月
+## JavaScript 篇
 
-  - <a href="https://github.com/mvpzx/fe-note/issues/2">Vue配置svg-sprite-loader以使用svg图标</a>
-  
-> 2017年12月
+[数组深浅拷贝问题引发的思考](https://github.com/mvpzx/fe-note/issues/1)
 
-  - <a href="https://github.com/mvpzx/fe-note/issues/1">数组深浅拷贝问题引发的思考</a>
+
+## 框架篇
+
+[Redux源码学习：createStore](https://github.com/mvpzx/fe-note/issues/8)
+
+[用Vue、React和Koa开发个人博客](https://github.com/mvpzx/fe-note/issues/6)
+
+[Vue配置svg-sprite-loader以使用svg图标](https://github.com/mvpzx/fe-note/issues/2)
+
+
 
