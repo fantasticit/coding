@@ -17,7 +17,4 @@
 
 ## 漫谈随笔篇
 
-[2017秋招感悟](ttps://github.com/mvpzx/fe-note/issues/10)
-
-
-
+[2017秋招感悟](https://github.com/mvpzx/fe-note/issues/10)
