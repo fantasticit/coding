@@ -15,5 +15,9 @@
 
 [Vue配置svg-sprite-loader以使用svg图标](https://github.com/mvpzx/fe-note/issues/2)
 
+## 漫谈随笔篇
+
+[2017秋招感悟](ttps://github.com/mvpzx/fe-note/issues/10)
+
 
 
