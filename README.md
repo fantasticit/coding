@@ -4,6 +4,8 @@
 
 ## JavaScript 篇
 
+[使用js实现依次执行异步任务](https://github.com/mvpzx/fe-note/issues/14)
+
 [数组深浅拷贝问题引发的思考](https://github.com/mvpzx/fe-note/issues/1)
 
 
