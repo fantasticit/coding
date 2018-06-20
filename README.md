@@ -25,6 +25,3 @@
 
 [2018 石墨文档校招前端面试笔记](https://github.com/mvpzx/fe-note/issues/13)
 
-## 漫谈随笔篇
-
-[2017秋招感悟](https://github.com/mvpzx/fe-note/issues/10)
