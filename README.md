@@ -13,8 +13,6 @@
 
 [Redux源码学习：createStore](https://github.com/mvpzx/fe-note/issues/8)
 
-[用Vue、React和Koa开发个人博客](https://github.com/mvpzx/fe-note/issues/6)
-
 [Vue.js 单元测试](https://github.com/mvpzx/fe-note/issues/11)
 
 [Vue配置svg-sprite-loader以使用svg图标](https://github.com/mvpzx/fe-note/issues/2)
