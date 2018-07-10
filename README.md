@@ -5,6 +5,8 @@
 
 ## JavaScript :satisfied:
 
+[从打乱数组谈起“洗牌算法”](https://github.com/hyiron/daydayup/issues/17)
+
 [使用js实现依次执行异步任务](https://github.com/hyiron/daydayup/issues/14)
 
 [数组深浅拷贝问题引发的思考](https://github.com/hyiron/daydayup/issues/1)
