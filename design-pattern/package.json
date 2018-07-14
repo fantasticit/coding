@@ -1,0 +1,16 @@
+{
+  "name": "design-pattern",
+  "version": "1.0.0",
+  "description": "JavaScript 实现设计模式",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "hyiron",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
