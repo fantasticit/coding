@@ -60,5 +60,5 @@ Validator.isGreaterThan = new Strategy.Checker(
   number => `The number ${number} is less than 20`
 )
 
-assert.equal(new Strategy.Validator(config).validate(data).isError(), true)
+assert.equal(new Validator(config).validate(data).isError(), true)
 ```
