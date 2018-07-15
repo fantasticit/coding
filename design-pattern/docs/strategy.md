@@ -50,15 +50,15 @@ const data = {
 
 const config = new Map([['name', 'isNotEmpty'], ['age', 'isGreaterThan']])
 
-Strategy.Validator.isNotEmpty = new Strategy.Checker(
+Validator.isNotEmpty = new Strategy.Checker(
   val => val.length > 0,
   val => `The ${val} is empty`
 )
 
-Strategy.Validator.isGreaterThan = new Strategy.Checker(
+Validator.isGreaterThan = new Strategy.Checker(
   number => number > 20,
   number => `The number ${number} is less than 20`
 )
 
-assert.equal(new Strategy.Validator(config).validate(data).isError(), true)
+assert.equal(new Validator(config).validate(data).isError(), true)
 ```
