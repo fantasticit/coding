@@ -1,7 +1,7 @@
 <!-- ![](https://img.shields.io/badge/update-today-blue.svg) ![](https://img.shields.io/badge/gitbook-making-lightgrey.svg)</br> -->
 
-|                         Ⅰ                          |              Ⅱ               |                 Ⅲ                  | Ⅳ                                    |
-| :------------------------------------------------: | :--------------------------: | :--------------------------------: | :------------------------------------: |
+|                         Ⅰ                          |              Ⅱ               |                 Ⅲ                  |                  Ⅳ                   |
+| :------------------------------------------------: | :--------------------------: | :--------------------------------: | :----------------------------------: |
 | JavaScript<br>[:satisfied:](#JavaScript-satisfied) | 框架<br>[:tada:](#框架-tada) | 设计模式<br>[:art:](#设计模式-art) | 面试笔记<br>[:memo:](#面试笔记-memo) |
 
 ## JavaScript :satisfied:
@@ -27,6 +27,8 @@
 [单例模式](./design-pattern/docs/singleton.md)
 
 [策略模式](./design-pattern/docs/strategy.md)
+
+[代理模式](./design-pattern/docs/proxy.md)
 
 ## 面试笔记 :memo:
 
