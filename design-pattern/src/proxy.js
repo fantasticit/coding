@@ -5,16 +5,19 @@ const multiply = function(...args) {
 const proxyMultiply = (() => {
   const cache = {}
   return (...args) => {
-    console.log(cache)
-
     let tag = args.join(',')
 
     if (cache[tag]) {
-      console.log('已缓存：', cache[tag])
-      return cache[tag]
+      return {
+        cache: true,
+        value: cache[tag]
+      }
     }
 
-    return (cache[tag] = multiply.apply(null, args))
+    return {
+      cache: false,
+      value: (cache[tag] = multiply.apply(null, args))
+    }
   }
 })()
 
