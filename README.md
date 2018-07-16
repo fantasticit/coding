@@ -32,6 +32,8 @@
 
 [迭代器模式](./design-pattern/docs/itetable.md)
 
+[发布订阅模式](./design-pattern/docs/pubsub.md)
+
 ## 面试笔记 :memo:
 
 [2018 美团校招前端面试笔记](https://github.com/hyiron/daydayup/issues/12)
