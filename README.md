@@ -1,8 +1,8 @@
 <!-- ![](https://img.shields.io/badge/update-today-blue.svg) ![](https://img.shields.io/badge/gitbook-making-lightgrey.svg)</br> -->
 
-|                         Ⅰ                          |              Ⅱ               |                 Ⅲ                  |                  Ⅳ                   |
-| :------------------------------------------------: | :--------------------------: | :--------------------------------: | :----------------------------------: |
-| JavaScript<br>[:satisfied:](#JavaScript-satisfied) | 框架<br>[:tada:](#框架-tada) | 设计模式<br>[:art:](#设计模式-art) | 面试笔记<br>[:memo:](#面试笔记-memo) | `bash` 脚本编程笔记<br>[:sweat_drops:](#`bash` 脚本编程笔记-sweat_drops) | `python`学习笔记<br>[:elephant:](#`python`学习笔记-elephant) |
+|                         Ⅰ                          |              Ⅱ               |                 Ⅲ                  |                  Ⅳ                   |                   Ⅳ                   |                   Ⅳ                   |
+| :------------------------------------------------: | :--------------------------: | :--------------------------------: | :----------------------------------: |  :----------------------------------: |  :----------------------------------: |
+| JavaScript<br>[:satisfied:](#JavaScript-satisfied) | 框架<br>[:tada:](#框架-tada) | 设计模式<br>[:art:](#设计模式-art) | 面试笔记<br>[:memo:](#面试笔记-memo) | `bash`脚本编程笔记<br>[:hammer:](#`bash`脚本编程笔记-hammer) | `python`学习笔记<br>[:elephant:](#`python`学习笔记-elephant) |
 
 ## JavaScript :satisfied:
 
@@ -40,7 +40,7 @@
 
 - [2018 石墨文档校招前端面试笔记](https://github.com/hyiron/daydayup/issues/13)
 
-## `bash` 脚本编程笔记 :sweat_drops:
+## `bash` 脚本编程笔记 :hammer:
 
 - [bash 中的特殊字符（上）](./bash-script-programming/special-character/special-character_1.md)
 
