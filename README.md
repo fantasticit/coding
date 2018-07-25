@@ -2,7 +2,7 @@
 
 |                         Ⅰ                          |              Ⅱ               |                 Ⅲ                  |                  Ⅳ                   |                   Ⅳ                   |                   Ⅳ                   |
 | :------------------------------------------------: | :--------------------------: | :--------------------------------: | :----------------------------------: |  :----------------------------------: |  :----------------------------------: |
-| JavaScript<br>[:satisfied:](#JavaScript-satisfied) | 框架<br>[:tada:](#框架-tada) | 设计模式<br>[:art:](#设计模式-art) | 面试笔记<br>[:memo:](#面试笔记-memo) | `bash`脚本编程笔记<br>[:hammer:](#`bash`脚本编程笔记-hammer) | `python`学习笔记<br>[:elephant:](#`python`学习笔记-elephant) |
+| JavaScript<br>[:satisfied:](#JavaScript-satisfied) | 框架<br>[:tada:](#框架-tada) | 设计模式<br>[:art:](#设计模式-art) | 面试笔记<br>[:memo:](#面试笔记-memo) | `bash`脚本编程笔记<br>[:hammer:](#bash脚本编程笔记-hammer) | `python`学习笔记<br>[:elephant:](#`python`学习笔记-elephant) |
 
 ## JavaScript :satisfied:
 
