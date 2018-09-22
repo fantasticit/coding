@@ -6,6 +6,8 @@
 
 ## JavaScript :satisfied:
 
+- [从酷炫的果冻菜单谈起 CSS3 filter 属性](https://github.com/hyiron/daydayup/issues/18)
+
 - [从打乱数组谈起“洗牌算法”](https://github.com/hyiron/daydayup/issues/17)
 
 - [使用 js 实现依次执行异步任务](https://github.com/hyiron/daydayup/issues/14)
@@ -38,7 +40,6 @@
 
 - [2018 美团校招前端面试笔记](https://github.com/hyiron/daydayup/issues/12)
 
-- [2018 石墨文档校招前端面试笔记](https://github.com/hyiron/daydayup/issues/13)
 
 ## 其他 :hammer:
 
