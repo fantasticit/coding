@@ -6,6 +6,8 @@
 
 ## JavaScript :satisfied:
 
+- [手把手叫你写 js 动画](https://github.com/hyiron/daydayup/issues/21)
+
 - [从酷炫的果冻菜单谈起 CSS3 filter 属性](https://github.com/hyiron/daydayup/issues/18)
 
 - [从打乱数组谈起“洗牌算法”](https://github.com/hyiron/daydayup/issues/17)
