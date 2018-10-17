@@ -12,7 +12,6 @@
 
 - [使用 js 实现依次执行异步任务](https://github.com/hyiron/daydayup/issues/14)
 
-- [数组深浅拷贝问题引发的思考](https://github.com/hyiron/daydayup/issues/1)
 
 ## 框架 :tada:
 
