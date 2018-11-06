@@ -10,18 +10,12 @@
 
 - [从酷炫的果冻菜单谈起 CSS3 filter 属性](https://github.com/hyiron/daydayup/issues/18)
 
-- [从打乱数组谈起“洗牌算法”](https://github.com/hyiron/daydayup/issues/17)
-
 - [使用 js 实现依次执行异步任务](https://github.com/hyiron/daydayup/issues/14)
 
 
 ## 框架 :tada:
 
-- [使用 `TypeScript` 开发 React 组件](https://github.com/hyiron/daydayup/issues/15)
-
 - [Redux 源码学习：createStore](https://github.com/hyiron/daydayup/issues/8)
-
-- [Vue.js 单元测试](https://github.com/hyiron/daydayup/issues/11)
 
 - [Vue 配置 svg-sprite-loader 以使用 svg 图标](https://github.com/hyiron/daydayup/issues/2)
 
