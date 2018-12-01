@@ -1,23 +1,21 @@
-<!-- ![](https://img.shields.io/badge/update-today-blue.svg) ![](https://img.shields.io/badge/gitbook-making-lightgrey.svg)</br> -->
-
 |                         Ⅰ                          |              Ⅱ               |                 Ⅲ                  |                  Ⅳ                   |                   Ⅳ                   |           
 | :------------------------------------------------: | :--------------------------: | :--------------------------------: | :----------------------------------: |  :----------------------------------: |
 | JavaScript<br>[:satisfied:](#JavaScript-satisfied) | 框架<br>[:tada:](#框架-tada) | 设计模式<br>[:art:](#设计模式-art) | 面试笔记<br>[:memo:](#面试笔记-memo) | 其他<br>[:hammer:](#其他-hammer) |
 
 ## JavaScript :satisfied:
 
-- [手把手教你写 js 动画](https://github.com/hyiron/daydayup/issues/21)
+- [手把手教你写 js 动画](https://github.com/justemit/coding-note/issues/21)
 
-- [从酷炫的果冻菜单谈起 CSS3 filter 属性](https://github.com/hyiron/daydayup/issues/18)
+- [从酷炫的果冻菜单谈起 CSS3 filter 属性](https://github.com/justemit/coding-note/issues/18)
 
-- [使用 js 实现依次执行异步任务](https://github.com/hyiron/daydayup/issues/14)
+- [使用 js 实现依次执行异步任务](https://github.com/justemit/coding-note/issues/14)
 
 
 ## 框架 :tada:
 
-- [Redux 源码学习：createStore](https://github.com/hyiron/daydayup/issues/8)
+- [Vue 技巧：无渲染组件](https://github.com/justemit/coding-note/issues/22)
 
-- [Vue 配置 svg-sprite-loader 以使用 svg 图标](https://github.com/hyiron/daydayup/issues/2)
+- [Vue 配置 svg-sprite-loader 以使用 svg 图标](https://github.com/justemit/coding-note/issues/2)
 
 ## 设计模式 :art:
 
@@ -33,7 +31,7 @@
 
 ## 面试笔记 :memo:
 
-- [2018 美团校招前端面试笔记](https://github.com/hyiron/daydayup/issues/12)
+- [2018 美团校招前端面试笔记](https://github.com/justemit/coding-note/issues/12)
 
 
 ## 其他 :hammer:
