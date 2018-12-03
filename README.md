@@ -4,8 +4,6 @@
 
 ## JavaScript :satisfied:
 
-- [手把手教你写 js 动画](https://github.com/justemit/coding-note/issues/21)
-
 - [从酷炫的果冻菜单谈起 CSS3 filter 属性](https://github.com/justemit/coding-note/issues/18)
 
 - [使用 js 实现依次执行异步任务](https://github.com/justemit/coding-note/issues/14)
