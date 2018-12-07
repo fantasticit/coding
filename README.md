@@ -37,3 +37,8 @@
 - [bash 脚本编程](./bash-script-programming/README.md)
 
 - [python 学习笔记](./python-learning-note/README.md)
+
+```html
+<p align="center">Too young, too simple. Sometimes, naive.</p>
+```
+
