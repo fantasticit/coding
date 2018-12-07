@@ -40,8 +40,6 @@
 
 
 <pre>
-<code>
 <div align="center">Too young, too simple. Sometimes, naive.<div>
-</code>
 </pre>
 
