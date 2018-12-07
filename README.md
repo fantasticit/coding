@@ -41,7 +41,7 @@
 
 <pre>
 <code>
-<p align="center" style="margin: 0">Too young, too simple. Sometimes, naive.</p>
+Too young, too simple. Sometimes, naive.
 </code>
 </pre>
 
