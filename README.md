@@ -4,7 +4,7 @@
 
 ## JavaScript :satisfied:
 
-- [如何实现 virtual-dom](https://github.com/justemit/coding-note/issues/23)
+- [vdom 原理解析与简单实现](https://github.com/justemit/coding-note/issues/23)
 
 - [从酷炫的果冻菜单谈起 CSS3 filter 属性](https://github.com/justemit/coding-note/issues/18)
 
