@@ -4,6 +4,8 @@
 
 ## JavaScript :satisfied:
 
+- [利用 Storage Event 实现页面间通信](https://github.com/justemit/coding-note/issues/26)
+
 - [vdom 原理解析与简单实现](https://github.com/justemit/coding-note/issues/23)
 
 - [从酷炫的果冻菜单谈起 CSS3 filter 属性](https://github.com/justemit/coding-note/issues/18)
