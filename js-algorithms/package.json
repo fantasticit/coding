@@ -1,0 +1,14 @@
+{
+  "name": "js-algorithms",
+  "version": "1.0.0",
+  "description": "Learning JavaScript Data Structures and Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape src/**/**.test.js"
+  },
+  "author": "justemit",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.10.1"
+  }
+}
