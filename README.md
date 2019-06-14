@@ -22,20 +22,7 @@
 
 ## 算法与数据结构 :pencil:
 
-### 算法
-
-#### 排序
-
-- [冒泡排序](./js-algorithms/src/Sort/Bubble)
-- [选择排序](./js-algorithms/src/Sort/Select)
-
-### 数据结构
-
-- [栈](./js-algorithms/src/DataStructures/Stack)
-- [链表](./js-algorithms/src/DataStructures/LinkList)
-- [队列](./js-algorithms/src/DataStructures/Queue)
-- [集合](./js-algorithms/src/DataStructures/Set)
-- [二叉树](./js-algorithms/src/DataStructures/Tree)
+[仓库地址](https://github.com/justemit/js-algorithms)
 
 ## 设计模式 :art:
 
