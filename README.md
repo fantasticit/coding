@@ -22,7 +22,7 @@
 
 ## 算法与数据结构 :pencil:
 
-[仓库地址](https://github.com/justemit/js-algorithms)
+- [使用 js 实现常见排序算法](https://github.com/justemit/coding-note/issues/30)
 
 ## 设计模式 :art:
 
