@@ -4,6 +4,8 @@
 
 ## JavaScript :satisfied:
 
+- [浏览器缓存机制](https://github.com/justemit/coding-note/issues/31)
+
 - [利用 Storage Event 实现页面间通信](https://github.com/justemit/coding-note/issues/26)
 
 - [vdom 原理解析与简单实现](https://github.com/justemit/coding-note/issues/23)
