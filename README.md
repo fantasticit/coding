@@ -26,7 +26,9 @@
 
 - [使用 js 实现常见排序算法](https://github.com/justemit/coding-note/issues/30)
 
-- [栈和队列](https://github.com/justemit/coding-note/issues/32)
+- [前端学数据结构：栈和队列](https://github.com/justemit/coding-note/issues/32)
+
+- [前端学数据结构：链表](https://github.com/justemit/coding-note/issues/33)
 
 ## 设计模式 :art:
 
