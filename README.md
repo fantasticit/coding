@@ -30,6 +30,8 @@
 
 - [前端学数据结构：链表](https://github.com/justemit/coding-note/issues/33)
 
+- [前端学数据结构：二叉搜索树](https://github.com/justemit/coding-note/issues/34)
+
 ## 设计模式 :art:
 
 - [单例模式](./design-pattern/docs/singleton.md)
