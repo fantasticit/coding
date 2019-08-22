@@ -2,6 +2,7 @@
 
 ## 2019
 
+- [Vue 组件开发姿势总结](https://github.com/justemit/coding-note/issues/37)
 - [浏览器缓存机制](https://github.com/justemit/coding-note/issues/31)
 - [vdom 原理解析与简单实现](https://github.com/justemit/coding-note/issues/23)
 - [从酷炫的果冻菜单谈起 CSS3 filter 属性](https://github.com/justemit/coding-note/issues/18)
