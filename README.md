@@ -2,7 +2,6 @@
 
 ## 2019
 
-- [面试分享：1 年经验初探前端社招](https://github.com/justemit/coding-note/issues/38)
 - [Vue 组件开发姿势总结](https://github.com/justemit/coding-note/issues/37)
 - [浏览器缓存机制](https://github.com/justemit/coding-note/issues/31)
 - [vdom 原理解析与简单实现](https://github.com/justemit/coding-note/issues/23)
