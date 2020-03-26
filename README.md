@@ -1,5 +1,10 @@
 **笔耕不缀，持续学习。**
 
+## 2020
+
+- [字节跳动面试题：实现 asyncSum](https://github.com/justemit/coding-note/issues/39)
+
+
 ## 2019
 
 - [Vue 组件开发姿势总结](https://github.com/justemit/coding-note/issues/37)
