@@ -2,6 +2,7 @@
 
 ## 2020
 
+- [使用 JS 朗读文章内容 ](https://github.com/justemit/coding-note/issues/40)
 - [字节跳动面试题：实现 asyncSum](https://github.com/justemit/coding-note/issues/39)
 
 
