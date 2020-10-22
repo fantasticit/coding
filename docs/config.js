@@ -29,7 +29,7 @@ export default {
     },
     {
       title: "Github",
-      path: "https://github.com/fantasticit/coding-note"
+      path: "https://github.com/fantasticit/coding"
     }
   ]
 }

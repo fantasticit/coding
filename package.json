@@ -2,7 +2,7 @@
   "name": "coding-note",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:fantasticit/coding-note.git",
+  "repository": "git@github.com:fantasticit/coding.git",
   "author": "fantasticit <fantasticit@163.com>",
   "license": "MIT",
   "scripts": {
