@@ -1,7 +1,6 @@
 export default {
   title: '学习笔记 | fantasticit',
   logo: 'Fantasticit',
-  js: ["https://s2.ssl.qhres.com/!f868948f/vue.min.js"],
   navs: [
     {
       title: '首页',
@@ -25,7 +24,7 @@ export default {
     },
     {
       title: '其他',
-      path: '/others/bash-script-programming/1--te-shu-zi-fu'
+      path: '/others'
     },
     {
       title: "Github",

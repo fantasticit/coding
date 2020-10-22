@@ -985,10 +985,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@fantasticit/docbook@^1.0.9":
-  version "1.0.9"
-  resolved "https://registry.npmjs.org/@fantasticit/docbook/-/docbook-1.0.9.tgz#2a190ecd5ca3a278377f48052e9f90f1fa274950"
-  integrity sha512-jRh1Qpc3kD/xDHpB5M5KDMmYSa1URPjyKow5O26Fu1hL6Fgokv9056DNR1qvHOov1Qi6OI7iMHcKkzUgPQsRsA==
+"@fantasticit/docbook@^1.0.10":
+  version "1.0.10"
+  resolved "https://registry.npmjs.org/@fantasticit/docbook/-/docbook-1.0.10.tgz#070b5d7b4dd02b35433f28a92193e2bb09f3f10b"
+  integrity sha512-BSPSbvQ4tzthULdqfWU940hcFp6aWdoCTmaJ03HVW0VOZOmb0DQdm+ZYtgL/xDIcf2i+sdbgreKr5udqd+4q9Q==
   dependencies:
     "@babel/cli" "^7.2.3"
     "@babel/core" "^7.2.2"
