@@ -1,6 +1,9 @@
 export default {
   title: '学习笔记 | fantasticit',
   logo: 'Fantasticit',
+  toc: true,
+  renderFooter: (buildTime, relativeFilePath) =>
+    `Bulid at ${buildTime}, Modify on <a href="https://github.com/fantasticit/coding/tree/main${relativeFilePath}" target="_blank">Github</a>`,
   navs: [
     {
       title: '首页',

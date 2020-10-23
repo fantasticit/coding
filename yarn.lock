@@ -985,10 +985,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@fantasticit/docbook@^1.0.10":
-  version "1.0.10"
-  resolved "https://registry.npmjs.org/@fantasticit/docbook/-/docbook-1.0.10.tgz#070b5d7b4dd02b35433f28a92193e2bb09f3f10b"
-  integrity sha512-BSPSbvQ4tzthULdqfWU940hcFp6aWdoCTmaJ03HVW0VOZOmb0DQdm+ZYtgL/xDIcf2i+sdbgreKr5udqd+4q9Q==
+"@fantasticit/docbook@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.npmjs.org/@fantasticit/docbook/-/docbook-1.1.2.tgz#da9ce3dabd5c8010af6ef6a7911c2cb1ca221d08"
+  integrity sha512-Pzj5FuQhAAKC+L2Zu1JIIiInq34Yn+kbXnmU8djrHVMqwi8XtDqS9yUEXaM62f/W/ubd5D0BwWKiY6A4y1XG0g==
   dependencies:
     "@babel/cli" "^7.2.3"
     "@babel/core" "^7.2.2"
@@ -1026,6 +1026,7 @@
     html-webpack-plugin "^3.2.0"
     js-yaml "^3.14.0"
     markdown-it "^8.4.2"
+    markdown-it-anchor "^6.0.0"
     markdown-it-container "^2.0.0"
     mkdirp "^0.5.1"
     node-sass "^4.11.0"
@@ -1040,6 +1041,7 @@
     terser-webpack-plugin "^2.1.0"
     uglifyjs-webpack-plugin "^2.1.2"
     url-loader "^1.1.2"
+    uslug "^1.0.4"
     vue-loader "^15.9.3"
     vue-md-loader "^1.1.0"
     vue-monaco "^1.2.1"
@@ -4669,6 +4671,11 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
+markdown-it-anchor@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.npmjs.org/markdown-it-anchor/-/markdown-it-anchor-6.0.0.tgz#2ec2554fa4d065f2d1ca2422a50c14c10cf67c2a"
+  integrity sha512-WOcIGhG1M1W94VV5cmSZAMSKi2vqCxpLAqQZ0wSO9RzQ9Rbls7ecjRVXp5DIPoXrNy9bjv9K7M0nYqNk60ctxQ==
+
 markdown-it-container@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/markdown-it-container/-/markdown-it-container-2.0.0.tgz#0019b43fd02eefece2f1960a2895fba81a404695"
@@ -7116,6 +7123,11 @@ universalify@^1.0.0:
   resolved "https://registry.npmjs.org/universalify/-/universalify-1.0.0.tgz#b61a1da173e8435b2fe3c67d29b9adf8594bd16d"
   integrity sha512-rb6X1W158d7pRQBg5gkR8uPaSfiids68LTJQYOtEUhoJUWBdaQHsuT/EUduxXYxcrt4r5PJ4fuHW1MHT6p0qug==
 
+"unorm@>= 1.0.0":
+  version "1.6.0"
+  resolved "https://registry.npmjs.org/unorm/-/unorm-1.6.0.tgz#029b289661fba714f1a9af439eb51d9b16c205af"
+  integrity sha512-b2/KCUlYZUeA7JFUuRJZPUtr4gZvBh7tavtv4fvk4+KV9pfGiR6CQAQAWl49ZpR3ts2dk4FYkP7EIgDJoiOLDA==
+
 unpipe@1.0.0, unpipe@~1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/unpipe/-/unpipe-1.0.0.tgz#b2bf4ee8514aae6165b4817829d21b2ef49904ec"
@@ -7180,6 +7192,13 @@ use@^3.1.0:
   version "3.1.1"
   resolved "https://registry.npmjs.org/use/-/use-3.1.1.tgz#d50c8cac79a19fbc20f2911f56eb973f4e10070f"
   integrity sha512-cwESVXlO3url9YWlFW/TA9cshCEhtu7IKJ/p5soJ/gGpj7vbvFrAY/eIioQ6Dw23KjZhYgiIo8HOs1nQ2vr/oQ==
+
+uslug@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.npmjs.org/uslug/-/uslug-1.0.4.tgz#b9a22f0914e0a86140633dacc302e5f4fa450677"
+  integrity sha1-uaIvCRTgqGFAYz2swwLl9PpFBnc=
+  dependencies:
+    unorm ">= 1.0.0"
 
 util-deprecate@^1.0.1, util-deprecate@^1.0.2, util-deprecate@~1.0.1:
   version "1.0.2"

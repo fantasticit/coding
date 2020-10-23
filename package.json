@@ -10,6 +10,6 @@
     "build": "docbook build"
   },
   "devDependencies": {
-    "@fantasticit/docbook": "^1.0.10"
+    "@fantasticit/docbook": "^1.1.2"
   }
 }
