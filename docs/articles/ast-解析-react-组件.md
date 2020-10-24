@@ -9,7 +9,7 @@ index: 2
 
 假设团队使用 TypeScript 进行 React 组件开发。开发组件的同时，需要为组件撰写文档（使用 Markdown 编写文档）。文档中需要对组件的 props 定义进行说明。
 
-![Antd 组件的 API 说明](https://wipi.oss-cn-shanghai.aliyuncs.com/2020-04-26/WX20200426-105830%402x.png)
+![Antd 组件的 API 说明](./assets/ast-1.png)
 
 在开发组件的时候，是编写组件 props 的接口定义。这时候就希望能够偷懒了，直接抽取组件源代码中的接口定义和注释来生成这部分文档。
 

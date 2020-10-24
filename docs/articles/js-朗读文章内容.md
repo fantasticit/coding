@@ -28,10 +28,10 @@ function speak() {
 
 在控制台打印一下 `voices `。
 
-![](https://wipi.oss-cn-shanghai.aliyuncs.com/2020-03-27/QQ%E6%88%AA%E5%9B%BE20200327235302.png)
+![](./assets/js-read-1.png)
 
 应该是不同的硬件设备，不同的操作系统，可用的 voices 不一样，比如 mac 和 windows。
 
-![](https://wipi.oss-cn-shanghai.aliyuncs.com/2020-03-27/QQ%E6%88%AA%E5%9B%BE20200327235612.png)
+![](./assets/js-read-2.png)
 
 最后，看一下兼容性还不错。😹💓

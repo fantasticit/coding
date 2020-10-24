@@ -7,9 +7,9 @@ index: 3
 
 最近看了不少关于 h5 页面制作工具。端午闲来无事，决定尝试下一个页面搭建工具。效果如下：
 
-![](https://wipi.oss-cn-shanghai.aliyuncs.com/2020-06-28/QQ20200628-105408-HD.gif)
-![](https://wipi.oss-cn-shanghai.aliyuncs.com/2020-06-27/ramiko-ditor.png)
-![](https://wipi.oss-cn-shanghai.aliyuncs.com/2020-06-27/ramiko-page.png)
+![](./assets/ramiko-1.gif)
+![](./assets/ramiko-2.png)
+![](./assets/ramiko-3.png)
 
 gif 录制效果不佳，可以访问以下链接进行体验。
 
@@ -26,14 +26,14 @@ gif 录制效果不佳，可以访问以下链接进行体验。
 
 ## 整体架构
 
-![](https://wipi.oss-cn-shanghai.aliyuncs.com/2020-06-28/ramiko-jiagou.png)
+![](./assets/ramiko-4.png)
 
 前端开发组件库，完善组件类型，编辑器读取组件完成页面搭建，将页面数据发送至服务端保存。
 访问页面，从服务端拉取页面数据，前端渲染页面即可。
 
 ## 编辑器设计
 
-![编辑器整体结构图](https://wipi.oss-cn-shanghai.aliyuncs.com/2020-06-28/ramiko.png)
+![编辑器整体结构图](./assets/ramiko-5.png)
 
 ```shell
 .
