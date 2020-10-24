@@ -47,5 +47,5 @@ export default {
       "type": "image/png"
     }))
   },
-  outputDir: 'public'
+  outputDir: '.spa'
 }
