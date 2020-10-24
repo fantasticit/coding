@@ -1,5 +1,5 @@
 {
-  "name": "coding-note",
+  "name": "coding",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:fantasticit/coding.git",
@@ -8,9 +8,5 @@
   "scripts": {
     "dev": "docbook dev",
     "build": "rimraf public && docbook build"
-  },
-  "devDependencies": {
-    "@fantasticit/docbook": "^1.2.7",
-    "rimraf": "^3.0.2"
   }
 }
