@@ -1,5 +1,10 @@
 **笔耕不缀，持续学习**
 
+## 网站
+
+- [gitee 国内用户访问]https://fantasticit.gitee.io/coding
+- [PWA 支持，科学上网](https://coding.fantasticit.vercel.app)
+
 ## 2020
 
 - [koa2 接口开发入门](https://github.com/fantasticit/coding-note/issues/44)
