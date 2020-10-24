@@ -31,7 +31,7 @@
 
 ### 其他笔记
 
-- [bash 脚本编程](./backup/bash-script-programming/README.md)
-- [python 学习笔记](./backup/python-learning-note/README.md)
+- [bash 脚本编程](./src/bash-script-programming/README.md)
+- [python 学习笔记](./src/python-learning-note/README.md)
 
 **_Too young, too simple. Sometimes, naive._**
