@@ -7,9 +7,10 @@
   "license": "MIT",
   "scripts": {
     "dev": "docbook dev",
-    "build": "docbook build"
+    "build": "rimraf public && docbook build"
   },
   "devDependencies": {
-    "@fantasticit/docbook": "^1.2.7"
+    "@fantasticit/docbook": "^1.2.7",
+    "rimraf": "^3.0.2"
   }
 }
