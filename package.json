@@ -10,7 +10,7 @@
     "build": "rimraf public && docbook build"
   },
   "devDependencies": {
-    "@fantasticit/docbook": "^1.2.11",
+    "@fantasticit/docbook": "^1.2.12",
     "rimraf": "^3.0.2"
   }
 }
