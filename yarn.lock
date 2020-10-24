@@ -862,10 +862,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@fantasticit/docbook@^1.2.15":
-  version "1.2.15"
-  resolved "https://registry.npmjs.org/@fantasticit/docbook/-/docbook-1.2.15.tgz#021072961d859da22baaaf278a0fcc84482c9fef"
-  integrity sha512-02UU+wVR4QbHOrZIYO7TsLJY7K5OgANuGOdtT+6Ji+KtTWej/BC4/6CRJfFSXbILU4AHBzJqO+gx47JzNLoqiw==
+"@fantasticit/docbook@^1.2.17":
+  version "1.2.17"
+  resolved "https://registry.npmjs.org/@fantasticit/docbook/-/docbook-1.2.17.tgz#0b3bbba94b76c2d49e767371e5a57a05c8231f8e"
+  integrity sha512-rLvKUXy1kvbocwRJE8mXb8GNEH6QWmT0rCxuvL9Gsl7epxIX7JMkeJPdja2v8YnM5vjjRhL+0Upwe3fQvVuxnA==
   dependencies:
     "@babel/cli" "^7.2.3"
     "@babel/core" "^7.2.2"
