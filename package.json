@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "docbook dev",
-    "build": "yarn add @fantasticit/docbook@latest -D && docbook build"
+    "build": "docbook build"
   },
   "devDependencies": {
     "@fantasticit/docbook": "^1.2.7"

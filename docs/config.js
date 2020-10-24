@@ -46,5 +46,6 @@ export default {
       "sizes": `${s}x${s}`,
       "type": "image/png"
     }))
-  }
+  },
+  outputDir: 'public'
 }
