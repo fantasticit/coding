@@ -1,0 +1,15 @@
+{
+  "name": "ts-design-patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "jest": "^26.5.0",
+    "ts-jest": "^26.4.1",
+    "typescript": "^4.0.3"
+  }
+}
