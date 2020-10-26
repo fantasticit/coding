@@ -1,5 +1,5 @@
 export default {
-  title: '学习笔记 | fantasticit',
+  title: 'Fantasticit',
   logo: 'Fantasticit',
   toc: true,
   renderFooter: (buildTime, relativeFilePath) =>
@@ -14,12 +14,8 @@ export default {
       path: '/articles'
     },
     {
-      title: '数据结构',
-      path: '/data-structure'
-    },
-    {
-      title: '算法',
-      path: '/algorithms'
+      title: '数据结构与算法',
+      path: '/algo-data-structure'
     },
     {
       title: '设计模式',
