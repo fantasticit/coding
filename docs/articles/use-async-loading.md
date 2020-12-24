@@ -1,6 +1,6 @@
 ---
 title: "异步过程中 loading 指示器的优化"
-index: 0
+index: -1
 ---
 
 ## 异步过程中 loading 指示器的优化
