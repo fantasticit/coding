@@ -7,6 +7,7 @@
 
 ## 2020
 
+- [异步过程中 loading 指示器的优化](https://github.com/fantasticit/coding-note/issues/47)
 - [koa2 接口开发入门](https://github.com/fantasticit/coding-note/issues/44)
 - [Vue 组件开发总结](https://github.com/fantasticit/coding-note/issues/43)
 - [next.js + nest.js 构建页面可视化编辑器 -- Ramiko](https://github.com/fantasticit/coding-note/issues/42)
