@@ -5,6 +5,10 @@
 - [gitee 国内用户访问](https://fantasticit.gitee.io/coding)
 - [PWA 支持，科学上网](https://coding.fantasticit.vercel.app)
 
+## 2021
+
+- [高德地图海量数据展示优化](https://github.com/fantasticit/coding-note/issues/48)
+
 ## 2020
 
 - [异步过程中 loading 指示器的优化](https://github.com/fantasticit/coding-note/issues/47)
